@@ -1,6 +1,6 @@
 # Visual_Question_Generation
 
-Torch implementation of "Multimodal Differential Network for Visual Question Generation". Paper can be found here https://arxiv.org/pdf/1808.03986
+Torch implementation of ["Multimodal Differential Network for Visual Question Generation"](https://arxiv.org/pdf/1808.03986).
 ### Training Step:
 
     1. Download VQG dataset from MicrosoftVQG site.
